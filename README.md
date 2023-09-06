@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-My name is Tom. I'm an English teacher and data analyst from Atlanta, Georgia and currently living in Mexico City. I'm a TEFL-certified ESL teacher with ten years of experience. Computers have been a hobby of mine for a long time and I'm now hoping to transition into a full-time tech career.
+My name is Tom. I'm a data analyst from Atlanta, Georgia. I'm a TEFL-certified ESL teacher with ten years of experience. Computers have been a hobby of mine for a long time and I'm now hoping to transition into a full-time tech career.
 
 I have many other interests, as well: jazz, history, literature, board games, current events, weightlifting, etc, etc.
 
