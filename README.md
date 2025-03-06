@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-My name is Tom. I'm a data analyst from Atlanta, Georgia. I also have over a decade of experience as a teacher, having taught English as a second language anf LSAT prep. Computers have been a hobby of mine for a long time and I'm now transitioning into a full-time tech career.
+My name is Tom. I'm a data analyst from Atlanta, Georgia. I also have over a decade of experience as a teacher, having taught English as a second language and LSAT prep. Computers have been a hobby of mine for a long time and I'm now transitioning into a full-time tech career.
 
 I have many other interests, as well: jazz, history, literature, board games, current events, weightlifting, etc, etc.
 
